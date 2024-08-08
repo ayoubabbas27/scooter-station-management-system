@@ -20,7 +20,7 @@ The Scooter Management System is a desktop application designed to manage a scoo
 
 # Screenshots
 > [!NOTE]
-> The language used in the project is french.
+> The project is presented in French.
 ### Scooters parc display
 ![IMG1!](displayImages/img1.png)
 ### Renting a scooter
