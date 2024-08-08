@@ -6,17 +6,17 @@ The Scooter Management System is a desktop application designed to manage a scoo
 
 ## Features
 - **Inventory Management**: Create, delete, and manage scooters in the system.
-- Rental Operations: Track scooter rentals, calculate usage based on distance, and ensure no double bookings.
-- Admin Authentication: Secure admin login to access management features.
-- User Interface: Intuitive UI designed with Java Swing and AWT.
+- **Rental Operations**: Track scooter rentals, calculate usage based on distance, and ensure no double bookings.
+- **Admin Authentication**: Secure admin login to access management features.
+- **User Interface**: Intuitive UI designed with Java Swing and AWT.
 
 <hr />
 
 ## Technical Stack
-- Programming Language: Java
-- GUI Framework: Java Swing, AWT
-- Database: Embedded H2 Database
-- Security: Custom authentication mechanism for admin access
+- **Programming Language**: Java
+- **GUI Framework**: Java Swing, AWT
+- **Database**: Embedded H2 Database
+- **Security**: Custom authentication mechanism for admin access
 
 <hr />
 
