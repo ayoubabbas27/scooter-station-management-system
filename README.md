@@ -19,7 +19,7 @@ The Scooter Management System is a desktop application designed to manage a scoo
 - Security: Custom authentication mechanism for admin access
 
 # Screenshots
-![IMG1]()
+![IMG1](./displayImages/2024-08-08 11_06_50-Louer Scooter.png)
 <hr />
 
 ## Challenges and Solutions
