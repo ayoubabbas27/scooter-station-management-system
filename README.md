@@ -19,7 +19,7 @@ The Scooter Management System is a desktop application designed to manage a scoo
 - Security: Custom authentication mechanism for admin access
 
 # Screenshots
-
+![IMG1]()
 <hr />
 
 ## Challenges and Solutions
