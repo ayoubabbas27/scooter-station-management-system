@@ -18,6 +18,8 @@ The Scooter Management System is a desktop application designed to manage a scoo
 - Database: Embedded H2 Database
 - Security: Custom authentication mechanism for admin access
 
+<hr />
+
 # Screenshots
 > [!NOTE]
 > The project is presented in French.
