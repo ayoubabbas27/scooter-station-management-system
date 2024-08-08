@@ -5,7 +5,7 @@ The Scooter Management System is a desktop application designed to manage a scoo
 <hr />
 
 ## Features
-- Inventory Management: Create, delete, and manage scooters in the system.
+- **Inventory Management**: Create, delete, and manage scooters in the system.
 - Rental Operations: Track scooter rentals, calculate usage based on distance, and ensure no double bookings.
 - Admin Authentication: Secure admin login to access management features.
 - User Interface: Intuitive UI designed with Java Swing and AWT.
