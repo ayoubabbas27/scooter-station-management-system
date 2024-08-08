@@ -19,7 +19,12 @@ The Scooter Management System is a desktop application designed to manage a scoo
 - Security: Custom authentication mechanism for admin access
 
 # Screenshots
-![IMG1](./displayImages/2024-08-08 11_06_50-Louer Scooter.png)
+> [!NOTE]
+> The language used in the project is french.
+### Scooters parc display
+![IMG1!](displayImages/img1.png)
+### Renting a scooter
+![IMG2!](displayImages/img2.png)
 <hr />
 
 ## Challenges and Solutions
